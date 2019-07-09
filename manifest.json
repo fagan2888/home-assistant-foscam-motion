@@ -1,0 +1,10 @@
+{
+  "domain": "foscam_motion",
+  "name": "Foscam Camera Motion",
+  "documentation": "",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": [
+    "libpyfoscam"
+  ]
+}
